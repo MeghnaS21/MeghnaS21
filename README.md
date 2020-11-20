@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Meghna Srivastava 👋
 
-<!--
-**MeghnaS21/MeghnaS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Calculator/Microsoft
+- 🌱 I’m currently learning DataStructures & Algorithms.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with VelocityX/documentation
+- 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
+- 📫 How to reach me: Twitter - @MeghnaS21
+- 😄 Pronouns: Her/She.
+- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
+
