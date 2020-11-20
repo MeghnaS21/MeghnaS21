@@ -1,6 +1,6 @@
- 👋
+ *HI THERE, I AM MEGHNA SRIVASTAVA👋
 
-
+*please wait.... this portfolio is under progress*
 
 - 🔭 I’m currently working on Calculator/Microsoft
 - 🌱 I’m currently learning DataStructures & Algorithms.
