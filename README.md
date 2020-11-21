@@ -33,18 +33,14 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://i.imgur.com/1r3PbPn.png (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: http://i.imgur.com/a/ltWA6pe.png (youtube icon with padding)
 
 <!-- icons without padding -->
-https://imgur.com/JVRXwAU
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/1r3PbPn.png (linkedin icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[7.2]: http://i.imgur.com/a/ltWA6pe.png (youtube icon without padding)
+
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -53,6 +49,6 @@ https://imgur.com/JVRXwAU
 [2]: https://www.facebook.com/meghna.srivastava.102/
 [3]: https://www.linkedin.com/in/meghna-srivastava-34571b172/
 [6]: https://github.com/MeghnaS21
-[7]: https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg/
+[7]: https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
