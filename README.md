@@ -35,15 +35,16 @@
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: https://i.imgur.com/1r3PbPn.png (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: http://i.imgur.com/undefined.png (youtube icon with padding)
+[7.1]: http://i.imgur.com/JVRXwAU.png (youtube icon with padding)
 
 <!-- icons without padding -->
+https://imgur.com/JVRXwAU
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/1r3PbPn.png (linkedin icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[7.2]: http://i.imgur.com/undefined.png (youtube icon without padding)
+[7.2]: http://i.imgur.com/JVRXwAU.png (youtube icon without padding)
 
 
 <!-- links to your social media accounts -->
