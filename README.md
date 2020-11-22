@@ -1,16 +1,6 @@
  
  ![Hi There, I am Meghna Srivastaa](https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
 
-
-- 🔭 I’m currently working on Calculator/Microsoft
-- 🌱 I’m currently learning DataStructures & Algorithms.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX/documentation
-- 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
-- 📫 How to reach me: Twitter - @MeghnaS21
-- 😄 Pronouns: Her/She.
-- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
-
 **CONNECT WITH ME**
 
 
@@ -51,3 +41,16 @@
 [7]: https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+- 🔭 I’m currently working on Calculator/Microsoft
+- 🌱 I’m currently learning DataStructures & Algorithms.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with VelocityX/documentation
+- 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
+- 📫 How to reach me: Twitter - @MeghnaS21
+- 😄 Pronouns: Her/She.
+- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
+
+[![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=radical)](https://github.com/MeghnaS21/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&layout=compact&langs_count=8)](https://github.com/MeghnaS21/github-readme-stats)
