@@ -54,3 +54,10 @@
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=radical&include=c++)](https://github.com/MeghnaS21/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/MeghnaS21/github-readme-stats)
+
+![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/github/followers/MeghnaS21?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/MeghnaS21?label=Stars&style=plastic">
