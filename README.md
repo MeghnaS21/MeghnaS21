@@ -42,10 +42,10 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- 🔭 I’m currently working on Calculator/Microsoft
+- 🔭 I’m currently working on Mini Javascript Projects.
 - 🌱 I’m currently learning DataStructures & Algorithms.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX/documentation
+- 🤔 I’m looking for help with Competitive Coding
 - 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
 - 📫 How to reach me: Twitter - @MeghnaS21
 - 😄 Pronouns: Her/She.
