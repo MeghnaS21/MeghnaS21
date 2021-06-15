@@ -49,7 +49,7 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Coding
 - 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
-- 📫 How to reach me: Twitter - @MeghnaS21
+- 📫 How to reach me:  **meghnasrivastava2000@gmail.com**
 - 😄 Pronouns: Her/She.
 - ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
 
@@ -63,3 +63,14 @@
 ![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <img src="https://img.shields.io/github/followers/MeghnaS21?label=Follow&style=plastic">
 <img src="https://img.shields.io/github/stars/MeghnaS21?label=Stars&style=plastic">
+### Languages and Tools:
+
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
+
