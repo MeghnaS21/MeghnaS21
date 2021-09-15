@@ -44,10 +44,10 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- 🔭 I’m currently working on Mini Javascript Projects.
+- 🔭 I’m currently working on Web Development project.
 - 🌱 I’m currently learning DataStructures & Algorithms.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Competitive Coding
+- 🤔 I’m looking for help with Competitive Coding.
 - 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
 - 📫 How to reach me:  **meghnasrivastava2000@gmail.com**
 - 😄 Pronouns: Her/She.
