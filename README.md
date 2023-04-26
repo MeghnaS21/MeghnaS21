@@ -53,6 +53,7 @@
 - 😄 Pronouns: Her/She.
 - ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
 
+[![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21)](https://github.com/MeghnaS21/github-readme-stats)
 [![Meghna's github stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=radical&include=c++)](https://github.com/MeghnaS21/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&langs_count=8&layout=compact)](https://github.com/MeghnaS21/github-readme-stats)
