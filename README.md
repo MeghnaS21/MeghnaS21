@@ -44,7 +44,7 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- 🔭 I’m currently working on Web Development project.
+- 🔭 I’m currently working on improving Web Development skills.
 - 🌱 I’m currently learning DataStructures & Algorithms.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Coding.
