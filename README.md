@@ -55,6 +55,7 @@
 
 [![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=radical)](https://github.com/MeghnaS21/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/MeghnaS21/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&langs_count=8&layout=compact)](https://github.com/MeghnaS21/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
