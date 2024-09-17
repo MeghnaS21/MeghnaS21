@@ -44,11 +44,11 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- 🔭 I’m currently working on improving Web Development skills.
-- 🌱 I’m currently learning DataStructures & Algorithms.
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently practicing problem solving like a MAFIA.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Competitive Coding.
-- 💬 Ask me about Competitive Programming, GSOC, any Tech realed stuff.
+- 💬 Ask me about Software Engineering, How to get a job in service bases, any Tech realed stuff.
 - 📫 How to reach me:  **meghnasrivastava2000@gmail.com**
 - 😄 Pronouns: Her/She.
 - ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
