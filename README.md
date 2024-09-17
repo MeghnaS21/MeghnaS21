@@ -76,8 +76,7 @@
 
 ## Watch snake eating my github contributions 
  
-![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-contribution-grid-snake.svg)
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake.svg)
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg
 
  
  
