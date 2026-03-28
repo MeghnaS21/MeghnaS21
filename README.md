@@ -1,98 +1,147 @@
- 
- ![Hi There, I am Meghna Srivastaa](https://user-images.githubusercontent.com/50775297/99869136-99f34580-2bee-11eb-9984-c56a02af3349.png)
- 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MeghnaS21)
+<div align="center">
 
-**CONNECT WITH ME**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Meghna%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%203%20yrs%208%20mos%20%7C%20she%2Fher&descAlignY=58&descSize=18&animation=fadeIn" />
 
+</div>
 
+<div align="center">
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+```
+╔═══════════════════════════════════════════════════════════╗
+║  🚀  Automating the world, one pipeline at a time  🚀    ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<!-- display the social media buttons in your README -->
+### 🌐 Find Me Online
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MeghnaS21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghna-srivastava-34571b172/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeghnaS21)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghnasrivastava2000@gmail.com)
 
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MeghnaS21&color=6c63ff&style=flat-square&label=Profile+Views)
+&nbsp;
+<img src="https://img.shields.io/github/followers/MeghnaS21?label=Followers&style=flat-square&color=6c63ff">
+&nbsp;
+<img src="https://img.shields.io/github/stars/MeghnaS21?label=Stars&style=flat-square&color=6c63ff">
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+</div>
 
-<!-- icons with padding -->
+<br/>
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+---
 
-<!-- icons without padding -->
+## 👩‍💻 About Me
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+<img align="right" alt="DevOps GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+```yaml
+name      : Meghna Srivastava
+role      : DevOps Engineer 🛠️
+experience: 3 years & 8 months
+pronouns  : she / her
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
+currently:
+  🔭 Working as a Software / DevOps Engineer
+  🌱 Solving problems like an absolute MAFIA
+  👯 Open to YouTube collaborations
+  🤔 Exploring Competitive Coding
 
-[1]: https://twitter.com/MeghnaS21
-[2]: https://www.facebook.com/meghna.srivastava.102/
-[3]: https://www.linkedin.com/in/meghna-srivastava-34571b172/
-[6]: https://github.com/MeghnaS21
-[7]: https://youtube.com/channel/UCCJX1akyAIyW0oWN26531fg
+ask_me_about:
+  ✦ DevOps & CI/CD pipelines
+  ✦ Software Engineering
+  ✦ How to land a job in tech
+  ✦ Anything tech-related!
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+fun_fact  : "Traded 6–7 hrs of binge-watching
+             for terminals & pipelines. No regrets. 😄"
 
-- 🔭 I’m currently working as a Software Engineer.
-- 🌱 I’m currently practicing problem solving like a MAFIA.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Competitive Coding.
-- 💬 Ask me about Software Engineering, How to get a job in service bases, any Tech realed stuff.
-- 📫 How to reach me:  **meghnasrivastava2000@gmail.com**
-- 😄 Pronouns: Her/She.
-- ⚡ Fun fact: I used to binge watch every night for about 6-7 hours.
+reach_me  : meghnasrivastava2000@gmail.com
+```
 
-[![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=dracula)](https://github.com/MeghnaS21/github-readme-stats)
+<br clear="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&size_weight=0.5&count_weight=0.5)](https://github.com/MeghnaS21/github-readme-stats)
+---
 
-![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<img src="https://img.shields.io/github/followers/MeghnaS21?label=Follow&style=plastic">
-<img src="https://img.shields.io/github/stars/MeghnaS21?label=Stars&style=plastic">
-### Languages and Tools:
+## 🛠️ Tech Stack
 
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<!-- <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
- -->
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
+<div align="center">
 
-## Watch snake eating my github contributions 
- 
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+**☁️ DevOps & Cloud**
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+**💻 Languages & Dev Tools**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</div>
 
+> ✏️ *Trim or add badges to match your actual stack!*
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MeghnaS21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghnaS21&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MeghnaS21&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/MeghnaS21)
+
+</div>
+
+---
+
+## 🐍 Swallowing My Contributions
+
+<div align="center">
+
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Wisdom
+
+> *"In a world full of GUIs, be a CLI."* 🖤
+
+**Always learning. Always shipping. Always automating.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
