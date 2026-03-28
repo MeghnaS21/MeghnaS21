@@ -48,7 +48,7 @@ currently:
   🔭 Working as a Software / DevOps Engineer
   🌱 Solving problems like an absolute MAFIA
   👯 Open to YouTube collaborations
-  🤔 Exploring Competitive Coding
+  🤔 Exploring devops more each day
 
 ask_me_about:
   ✦ DevOps & CI/CD pipelines
@@ -56,10 +56,9 @@ ask_me_about:
   ✦ How to land a job in tech
   ✦ Anything tech-related!
 
-fun_fact  : "Traded 6–7 hrs of binge-watching
-             for terminals & pipelines. No regrets. 😄"
+fun_fact  : I try a lot!
 
-reach_me  : meghnasrivastava2000@gmail.com
+reach_me  : work.meghss@gmail.com
 ```
 
 <br clear="right"/>
@@ -83,12 +82,10 @@ reach_me  : meghnasrivastava2000@gmail.com
 
 **💻 Languages & Dev Tools**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
