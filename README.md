@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Animated_Portfolio-Visit-00d4ff?style=for-the-badge)](https://meghnas21.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Animated_Portfolio-Visit-00d4ff?style=for-the-badge)](https://meghnas21.github.io/)
 
 </div>
 
@@ -57,7 +57,7 @@ currently:
   🔭  Working as a Software / DevOps Engineer
   🌱  Problem-solving like an absolute MAFIA
   👯  Open to YouTube collaborations
-  🤔  Deep-diving into Competitive Coding
+  🤔  Deep-diving into Devops
 
 ask_me_about:
   ✦  CI/CD Pipelines & Automation
@@ -65,10 +65,9 @@ ask_me_about:
   ✦  How to land a job in tech
   ✦  Anything tech-related!
 
-fun_fact  : "Traded 6–7 hrs of binge-watching
-             for terminals & pipelines. 😄"
+fun_fact  : I try a lot.
 
-contact   : meghnasrivastava2000@gmail.com
+contact   : work.meghss@gmail.com
 ```
 
 <br clear="right"/>
