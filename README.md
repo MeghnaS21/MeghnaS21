@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Animated_Portfolio-Visit-00d4ff?style=for-the-badge)](https://meghnas21.github.io)
+
+</div>
+
 <!-- ANIMATED WAVE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050a0e,30:0f0c29,60:302b63,100:24243e&height=250&section=header&text=Meghna%20Srivastava&fontSize=55&fontColor=00d4ff&fontAlignY=42&desc=DevOps%20Engineer%20%E2%80%A2%20she%2Fher%20%E2%80%A2%203%20yrs%208%20mos&descAlignY=62&descSize=17&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
