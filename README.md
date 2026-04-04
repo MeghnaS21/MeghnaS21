@@ -48,10 +48,10 @@ experience: "3 years & 8 months"
 pronouns  : "she / her"
 
 currently:
-  🔭  Working as a Software / DevOps Engineer
-  🌱  Problem-solving like an absolute MAFIA
-  👯  Open to YouTube collaborations
-  🤔  Deep-diving into DevOps
+  🔭 Building things that actually work in production
+  🌱 Debugging at 2AM like it's a personality trait
+  👯 Open to YouTube collabs — let's build something cool
+  🤔 Currently going down the DevOps rabbit hole
 
 ask_me_about:
   ✦  CI/CD Pipelines & Automation
